@@ -32,7 +32,7 @@ def iterate_through_keys
      upcased_city << location.upcased_city
    end
      
-   end
+  
   
   
 end
